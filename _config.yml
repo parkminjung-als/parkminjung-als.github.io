@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "MinJung"
+  name             : "ParkMinJung"
   avatar           : "assets/images/minjung.jpg"
   bio              : "I am an **amazing** person."
   location         : "경기도 김포시"
@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:qkralswjd5639@naver.com"
+      # url: "mailto:qkralswjd5639@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
