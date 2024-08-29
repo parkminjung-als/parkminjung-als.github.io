@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "My name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "MinJung"
+  avatar           : "assets/images/minjung.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "경기도 김포시"
   email            :
   links:
     - label: "Email"
